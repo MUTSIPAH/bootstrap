@@ -1,0 +1,95 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.main{
+    background-color: grey;
+    height: 10vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.star{
+    margin-left: 520px;
+    justify-items: center;
+    align-items: center;
+    .hr{
+        height: 2px;
+    }
+position: relative;
+left: 98px;
+}
+.line{
+    margin-bottom: 8px;
+    width: 70px;
+    color: white;
+    border: solid 1px;
+    margin-right: -106px;
+}
+span{
+    display: inline-block;
+    margin: 5px;
+}
+.line2{
+    width: 70px;
+    border: solid 1px;
+    color: white;
+    margin-bottom: 8px;
+    margin-left: -98px;
+}
+.nav{
+    color: white;
+    font-size: xx-large;
+    font-weight: 900;
+    color: white;
+    margin: 20px;
+}
+a{
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 900;
+    color: white;
+    margin: 20px;
+}
+.banner{
+    padding: 150px;
+    background-color: rgb(27, 212, 83);
+    color: white;
+    
+}
+h1{
+    color: white;
+}
+.portifolio{
+    margin: 50px;
+    padding: 20px;
+}
+h2{
+    color: white;
+    padding: 4px;
+    margin: 0;
+}
+p {
+    color: white;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.about{
+    padding: 40px;
+    color: white;
+    background-color:  rgb(27, 212, 83);
+}
+.row{
+    text-align: center;
+    justify-content: space-evenly;
+}
+.contact{
+    padding: 90px;
+}
+.button12{
+    padding: 10px;
+    background: aqua;
+}
+.footer{
+    background-color: black;
+}
